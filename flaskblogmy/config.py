@@ -9,5 +9,5 @@ class Config:
     MAIL_PORT = os.environ.get('MAIL_PORT')
     MAIL_USE_TLS = os.environ.get('MAIL_USE_TLS')
     # necessary to allow low security aplications in gmail
-    MAIL_USERNAME = os.environ.get('MAIL_USERNAME') #from environment variable - os.environ.get('EMAIL_USER')
-    MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD') #from environment variable - os.environ.get('EMAIL_PASS')
+    MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
+    MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')

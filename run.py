@@ -7,5 +7,3 @@ if __name__ == "__main__":#only true if script run directly - using somewhere el
 
 # linode, digital ocean, auus
 # engine x, g unicorn
-
-#
