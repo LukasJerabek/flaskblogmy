@@ -1,4 +1,4 @@
-#!D:\Documents\Dropbox\PycharmProjects\flaskblogmy\venv\Scripts\python.exe
+#!"D:\Documents\Disk Google\PycharmProjects\flaskblogmy\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re
