@@ -11,7 +11,7 @@ db = SQLAlchemy() # database set up
 bcrypt = Bcrypt()
 login_manager = LoginManager() # we add some functionality to our database models and it will handle all of the sessions in the background for us.
 login_manager.login_view = 'users.login' # for @login_required in routes /account
-login_manager.login_mjessage_category = 'info' # nicer notification
+login_manager.login_message_category = 'info' # nicer notification
 mail = Mail()
 
 

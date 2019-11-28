@@ -6,4 +6,4 @@ if __name__ == "__main__":#only true if script run directly - using somewhere el
     app.run(debug=True)
 
 # linode, digital ocean, auus
-# engine x, g unicorn
+# nginx, gunicorn
