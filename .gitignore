@@ -1,5 +1,3 @@
 .idea
 __pycache__
-*/__pycache__
-*/*/__pycache__
-flaskblogmy/site.db
+site.db
